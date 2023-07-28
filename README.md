@@ -11,6 +11,9 @@ To successfully deploy the object tracking you fill need the following.
  
  For MacOS/Linux:  ```pip3 install opencv-python```
 
+## Import Information
+As the object detection model exceeds Githubs upload size (>25MB) it has not been included in this repository. As a result if you download the repository and attempt to execute the object tracking, it will not work. To see the full project in action, please email me at alextsaha@gmail.com and I will happily SecureTransfer the object detection model for you to use. 
+
 ## Launching the tracker 
 Using your preferred IDE (e.g. VisualStudio Code) run the object_tracking.py file.
 
