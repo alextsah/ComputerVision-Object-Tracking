@@ -1,5 +1,5 @@
 # ComputerVision-Object-Tracking
-Welcome to my Computer Vision project! This project was developed during summer of 2023 (May - August). 
+Welcome to my Computer Vision project! This project was developed during summer of 2023 (May - August). The object_tracking.py file takes as an input a video file (.mp4 only) and uses a pre-trained detection model to identify cars and track them along the video. It assigns a unique ID to each identified car and destroys that ID once the car exist the frame of the video. 
 
 ## Pre-requisites
 To successfully deploy the object tracking you fill need the following. 
